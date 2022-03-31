@@ -1,3 +1,5 @@
+#Best Time To Buy And Sell Stocks
+#Problem Number-122
 class Solution:
     def maxProfit(self, price: List[int]) -> int:
         mxpro=0
